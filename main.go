@@ -11,7 +11,7 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/emadgh/go-persian-tools"
-	"github.com/mostafah/go-jalali/tree/master/jalali"
+	"github.com/mostafah/go-jalali"
 )
 
 type WpItem struct {
